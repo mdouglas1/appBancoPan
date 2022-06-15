@@ -1,0 +1,15 @@
+Documentação - appBancoPan
+
+expo: https://docs.expo.dev/tutorial/text/
+
+React Navigation: https://reactnavigation.org/
+- Stack.Navigator: https://reactnavigation.org/docs/stack-navigator/
+
+React Native: https://reactnative.dev/docs/
+- Colors: https://reactnative.dev/docs/colors
+- Props: https://reactnative.dev/docs/props
+
+CSS: 
+- Box Model: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+
+React Native Animatable: https://www.npmjs.com/package/react-native-animatable
